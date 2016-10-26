@@ -27,9 +27,9 @@ namespace WorkplaceExamples
                 {
                     Console.WriteLine("Well shit");
                 }
-                
+
             }
-            
+
             return response;
         }
 
